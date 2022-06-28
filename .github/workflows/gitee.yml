@@ -3,7 +3,7 @@ name: sync2gitee
 on:
   push:
     branches:
-      - main
+      - main00
 jobs:
   repo-sync:
     env:
